@@ -1,0 +1,6 @@
+[submodule "submodules/private/deployment"]
+	path = submodules/private/deployment
+	url = git@github.com:millionmind/deployment.git
+[submodule "submodules/public/lib/php/aws-sdk"]
+	path = submodules/public/lib/php/aws-sdk
+	url = git@github.com:millionmind/aws-sdk-php.git
